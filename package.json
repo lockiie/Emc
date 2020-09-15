@@ -1,0 +1,27 @@
+{
+  "name": "emcserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "n",
+  "scripts": {
+    "test": "n",
+    "start": "nodemon bin/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "n"
+  },
+  "keywords": [
+    "n"
+  ],
+  "author": "n",
+  "license": "ISC",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.17.1",
+    "helmet": "^4.1.0",
+    "http-server": "^0.12.3",
+    "md5": "^2.3.0",
+    "oracledb": "^5.0.0"
+  }
+}
